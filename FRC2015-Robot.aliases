@@ -1,0 +1,13 @@
+[My Computer]
+<<<<<<< HEAD
+My Computer = "10.10.44.159"
+=======
+<<<<<<< HEAD
+=======
+My Computer = "127.0.0.1"
+>>>>>>> 6394db437093ead72502e5708168ff6ed359ee9c
+>>>>>>> origin/master
+
+[Target]
+Target = "roboRIO-418.local"
+
